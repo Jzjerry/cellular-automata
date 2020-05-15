@@ -1,1 +1,1 @@
-"# cellular-automata"
+# cellular-automata
